@@ -1,7 +1,7 @@
 2017.7.4 
 
 (1) 설문조사
-(2) 강좌를 만들게 된 배경 (https://docs.google.com/forms/d/e/1FAIpQLSd6kA0dv0k6NCkLT085RHJE7iCwdHatATUh56llrlylUlOl_Q/viewform?c=0&w=1)
-
+(https://docs.google.com/forms/d/e/1FAIpQLSd6kA0dv0k6NCkLT085RHJE7iCwdHatATUh56llrlylUlOl_Q/viewform?c=0&w=1)
+(2) 강좌를 만들게 된 배경 
 (3) 깃허브 자료보기 (github.com/yimjhkr68)
 (4) 교재1. Python3-Install+IO(JinJin).hwp
