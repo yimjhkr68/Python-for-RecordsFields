@@ -1,0 +1,5 @@
+2017.7.6
+
+(1) 퀴즈
+(2) 비트스트림 살펴보기
+(3) 교재2. Python3-Variable+Datatype(JinJin).hwp
