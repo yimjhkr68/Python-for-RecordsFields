@@ -3,3 +3,7 @@
 (1) 퀴즈
 (2) 인코딩방식 이해하기(소리와 이미지)
 (3) 교재3. Python3-Function+File(JinJin).hwp
+
+* 파이썬 영어 무료강좌
+www.udacity.com
+Programming Foundations with Python
