@@ -1,0 +1,6 @@
+2017.7.13
+
+(1) 퀴즈
+(2) 교재4. Python3-Button+Choice(JinJin).hwp
+(3) 교재5. Python3-if+for+while(JinJin).hwp
+(4) 트롤리의 딜레마 http://moralmachine.mit.edu/hl/kr 
