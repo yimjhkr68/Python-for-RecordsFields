@@ -1,0 +1,5 @@
+2017.7.20
+
+(1) 퀴즈
+(2) 교재8. Python3-Application(JinJin).hwp
+(3) 참고5. 텍스트분석 개요(임진희).hwp
